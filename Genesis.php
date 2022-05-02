@@ -1,12 +1,13 @@
 <?php
-
+/*
 require_once './BoilerplateP4wsClasses.php';
 require_once './BoilerplateP4wsFunctions.php';
+*/
 
 ########################################################################-------COMPONENTS------------###
 
     #/*Component Piece : "TodoList"
-        require_once './Components/TodoList/TodoList.php';
+        require_once './Components/TodoList/Components/TodoList/TodoList.php';
     ###*/
 
 #-------COMPONENTS------------###
