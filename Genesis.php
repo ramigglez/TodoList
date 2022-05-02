@@ -11,7 +11,7 @@ require_once './BoilerplateP4wsFunctions.php';
 
 #-------COMPONENTS------------###
 
-$genesis = block([
+$todos = block([
 
     doct(),
 
@@ -64,6 +64,4 @@ $genesis = block([
 
 ],'Piezas4WebSites -> RamiGGlez 00');
 
-$uno_igual_a_formato_json_cero_ejecuta_html = 0;
-
-focuspocus($genesis,$uno_igual_a_formato_json_cero_ejecuta_html);
+$uno_igual_a_formato_json_cero_ejecuta_html = 1;
