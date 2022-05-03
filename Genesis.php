@@ -37,7 +37,7 @@ $todos = block([
             #/*Component Piece : "TodoList"
                 kvtag_('link',[ 
                     'rel' => 'stylesheet',
-                    'href' => './Components/TodoList/TodoList.css'
+                    'href' => './Components/TodoList/Components/TodoList/TodoList.css'
                 ])
             ###*/
 
@@ -51,7 +51,7 @@ $todos = block([
 
             #/*Component Piece : "TodoList"
                 kvtag_('script',[
-                    'src' => './Components/TodoList/TodoList.js'
+                    'src' => './Components/TodoList/Components/TodoList/TodoList.js'
                 ]),
             ###*/
 
